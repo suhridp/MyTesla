@@ -371,7 +371,7 @@ let CloseWrapper = styled.div`
 let List = styled.div`
   display: flex;
   margin: 20px;
-  width: 15vw;
+  width: 19vw;
   font-size: 15px;
   align-items: flex-start;
   justify-content: center;
