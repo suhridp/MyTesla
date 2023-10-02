@@ -44,7 +44,7 @@ function Sections(props) {
 
 const Buttons = styled.div``;
 const Wrap = styled.div`
-  width: 100vw;
+  width: 98.7vw;
   z-index: -1;
   height: 109vh;
   background-size: cover;
