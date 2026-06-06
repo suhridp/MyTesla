@@ -1,7 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import { Slide } from "react-awesome-reveal";
-import videof from "g:/frontend project/tesla/src/components/demo.mp4";
+import videof from "./demo.mp4";
+
 function Section2(props) {
   return (
     <Wrap>
